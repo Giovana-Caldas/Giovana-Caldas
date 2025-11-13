@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Criando projetos para aprimorar minhas habilidades <br>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>🎯 Foco em HTML, CSS e JavaScript<br></p>
+<p align="left">✨Criando projetos e estudos para aprimorar minhas habilidades em Qualidade de Software (QA) <br>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>🎯 Foco em testes manuais, criação de casos de testes e identificação de bugs<br></p>
 
 ###
 
@@ -25,6 +25,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="30" alt="cypress logo" />
 </div>
 
 ###
